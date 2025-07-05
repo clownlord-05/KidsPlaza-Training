@@ -1,0 +1,11 @@
+C:\Users\MANh TUNG\source\repos\bai17\wdf1\bin\Debug\wdf1.exe.config
+C:\Users\MANh TUNG\source\repos\bai17\wdf1\bin\Debug\wdf1.exe
+C:\Users\MANh TUNG\source\repos\bai17\wdf1\bin\Debug\wdf1.pdb
+C:\Users\MANh TUNG\source\repos\bai17\wdf1\obj\Debug\wdf1.csproj.AssemblyReference.cache
+C:\Users\MANh TUNG\source\repos\bai17\wdf1\obj\Debug\wdf1.Form1.resources
+C:\Users\MANh TUNG\source\repos\bai17\wdf1\obj\Debug\wdf1.Properties.Resources.resources
+C:\Users\MANh TUNG\source\repos\bai17\wdf1\obj\Debug\wdf1.csproj.GenerateResource.cache
+C:\Users\MANh TUNG\source\repos\bai17\wdf1\obj\Debug\wdf1.csproj.CoreCompileInputs.cache
+C:\Users\MANh TUNG\source\repos\bai17\wdf1\obj\Debug\wdf1.exe
+C:\Users\MANh TUNG\source\repos\bai17\wdf1\obj\Debug\wdf1.pdb
+C:\Users\MANh TUNG\source\repos\bai17\wdf1\obj\Debug\wdf1.exe.config

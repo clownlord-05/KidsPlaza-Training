@@ -1,0 +1,8 @@
+C:\Users\MANh TUNG\source\repos\bai17\bai18\bin\Debug\bai18.exe.config
+C:\Users\MANh TUNG\source\repos\bai17\bai18\bin\Debug\bai18.exe
+C:\Users\MANh TUNG\source\repos\bai17\bai18\bin\Debug\bai18.pdb
+C:\Users\MANh TUNG\source\repos\bai17\bai18\obj\Debug\bai18.csproj.AssemblyReference.cache
+C:\Users\MANh TUNG\source\repos\bai17\bai18\obj\Debug\bai18.csproj.CoreCompileInputs.cache
+C:\Users\MANh TUNG\source\repos\bai17\bai18\obj\Debug\bai18.exe
+C:\Users\MANh TUNG\source\repos\bai17\bai18\obj\Debug\bai18.pdb
+C:\Users\MANh TUNG\source\repos\bai17\bai18\obj\Debug\bai18.exe.config

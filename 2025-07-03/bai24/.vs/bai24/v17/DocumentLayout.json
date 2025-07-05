@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MANh TUNG\\source\\repos\\bai17\\bai24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{998DA020-3CB8-491E-90A6-C7BAC6A9EBDD}|..\\wdf1\\wdf1.csproj|c:\\users\\manh tung\\source\\repos\\bai17\\wdf1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998DA020-3CB8-491E-90A6-C7BAC6A9EBDD}|..\\wdf1\\wdf1.csproj|c:\\users\\manh tung\\source\\repos\\bai17\\wdf1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|wdf1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E91C0E-70E6-44CE-B0A2-4E685A29B114}|bai24.csproj|c:\\users\\manh tung\\source\\repos\\bai17\\bai24\\nvhc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E91C0E-70E6-44CE-B0A2-4E685A29B114}|bai24.csproj|solutionrelative:nvhc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E91C0E-70E6-44CE-B0A2-4E685A29B114}|bai24.csproj|c:\\users\\manh tung\\source\\repos\\bai17\\bai24\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E91C0E-70E6-44CE-B0A2-4E685A29B114}|bai24.csproj|solutionrelative:nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E91C0E-70E6-44CE-B0A2-4E685A29B114}|bai24.csproj|c:\\users\\manh tung\\source\\repos\\bai17\\bai24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E91C0E-70E6-44CE-B0A2-4E685A29B114}|bai24.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E91C0E-70E6-44CE-B0A2-4E685A29B114}|bai24.csproj|c:\\users\\manh tung\\source\\repos\\bai17\\bai24\\nvdc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E91C0E-70E6-44CE-B0A2-4E685A29B114}|bai24.csproj|solutionrelative:nvdc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998DA020-3CB8-491E-90A6-C7BAC6A9EBDD}|..\\wdf1\\wdf1.csproj|c:\\users\\manh tung\\source\\repos\\bai17\\wdf1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\bai17\\wdf1\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\wdf1\\Form1.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\bai17\\wdf1\\Form1.cs",
+              "RelativeToolTip": "..\\wdf1\\Form1.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAewEMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:02:04.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\bai17\\wdf1\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\wdf1\\Form1.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\bai17\\wdf1\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\wdf1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:50:26.908Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "wdf1",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\bai17\\wdf1\\wdf1.csproj",
+              "RelativeDocumentMoniker": "..\\wdf1\\wdf1.csproj",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\bai17\\wdf1\\wdf1.csproj",
+              "RelativeToolTip": "..\\wdf1\\wdf1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-03T09:52:38.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\bai17\\bai24\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\bai17\\bai24\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wCAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:39:11.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nhanvien.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\bai17\\bai24\\Nhanvien.cs",
+              "RelativeDocumentMoniker": "Nhanvien.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\bai17\\bai24\\Nhanvien.cs",
+              "RelativeToolTip": "Nhanvien.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:39:10.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nvhc.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\bai17\\bai24\\Nvhc.cs",
+              "RelativeDocumentMoniker": "Nvhc.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\bai17\\bai24\\Nvhc.cs",
+              "RelativeToolTip": "Nvhc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:39:11.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nvdc.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\bai17\\bai24\\Nvdc.cs",
+              "RelativeDocumentMoniker": "Nvdc.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\bai17\\bai24\\Nvdc.cs",
+              "RelativeToolTip": "Nvdc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:39:11.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

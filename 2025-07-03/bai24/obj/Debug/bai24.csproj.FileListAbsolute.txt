@@ -1,0 +1,16 @@
+C:\Users\MANh TUNG\source\repos\winform\bai24\bin\Debug\bai24.exe.config
+C:\Users\MANh TUNG\source\repos\winform\bai24\bin\Debug\bai24.exe
+C:\Users\MANh TUNG\source\repos\winform\bai24\bin\Debug\bai24.pdb
+C:\Users\MANh TUNG\source\repos\winform\bai24\obj\Debug\bai24.csproj.AssemblyReference.cache
+C:\Users\MANh TUNG\source\repos\winform\bai24\obj\Debug\bai24.csproj.CoreCompileInputs.cache
+C:\Users\MANh TUNG\source\repos\winform\bai24\obj\Debug\bai24.exe
+C:\Users\MANh TUNG\source\repos\winform\bai24\obj\Debug\bai24.pdb
+C:\Users\MANh TUNG\source\repos\winform\bai24\obj\Debug\bai24.exe.config
+C:\Users\MANh TUNG\source\repos\bai17\bai24\bin\Debug\bai24.exe.config
+C:\Users\MANh TUNG\source\repos\bai17\bai24\bin\Debug\bai24.exe
+C:\Users\MANh TUNG\source\repos\bai17\bai24\bin\Debug\bai24.pdb
+C:\Users\MANh TUNG\source\repos\bai17\bai24\obj\Debug\bai24.csproj.AssemblyReference.cache
+C:\Users\MANh TUNG\source\repos\bai17\bai24\obj\Debug\bai24.exe.config
+C:\Users\MANh TUNG\source\repos\bai17\bai24\obj\Debug\bai24.csproj.CoreCompileInputs.cache
+C:\Users\MANh TUNG\source\repos\bai17\bai24\obj\Debug\bai24.exe
+C:\Users\MANh TUNG\source\repos\bai17\bai24\obj\Debug\bai24.pdb

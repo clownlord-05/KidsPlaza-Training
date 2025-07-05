@@ -1,0 +1,8 @@
+C:\Users\MANh TUNG\source\repos\bai23\bai23\bin\Debug\bai23.exe.config
+C:\Users\MANh TUNG\source\repos\bai23\bai23\bin\Debug\bai23.exe
+C:\Users\MANh TUNG\source\repos\bai23\bai23\bin\Debug\bai23.pdb
+C:\Users\MANh TUNG\source\repos\bai23\bai23\obj\Debug\bai23.csproj.AssemblyReference.cache
+C:\Users\MANh TUNG\source\repos\bai23\bai23\obj\Debug\bai23.csproj.CoreCompileInputs.cache
+C:\Users\MANh TUNG\source\repos\bai23\bai23\obj\Debug\bai23.exe
+C:\Users\MANh TUNG\source\repos\bai23\bai23\obj\Debug\bai23.pdb
+C:\Users\MANh TUNG\source\repos\bai23\bai23\obj\Debug\bai23.exe.config

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MANh TUNG\\source\\repos\\bai23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{262708A7-8842-4802-8586-4ED2081B1C35}|bai23\\bai23.csproj|c:\\users\\manh tung\\source\\repos\\bai23\\bai23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262708A7-8842-4802-8586-4ED2081B1C35}|bai23\\bai23.csproj|solutionrelative:bai23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262708A7-8842-4802-8586-4ED2081B1C35}|bai23\\bai23.csproj|c:\\users\\manh tung\\source\\repos\\bai23\\bai23\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262708A7-8842-4802-8586-4ED2081B1C35}|bai23\\bai23.csproj|solutionrelative:bai23\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262708A7-8842-4802-8586-4ED2081B1C35}|bai23\\bai23.csproj|c:\\users\\manh tung\\source\\repos\\bai23\\bai23\\sv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262708A7-8842-4802-8586-4ED2081B1C35}|bai23\\bai23.csproj|solutionrelative:bai23\\sv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HocSinh.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\bai23\\bai23\\HocSinh.cs",
+              "RelativeDocumentMoniker": "bai23\\HocSinh.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\bai23\\bai23\\HocSinh.cs*",
+              "RelativeToolTip": "bai23\\HocSinh.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:09:40.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\bai23\\bai23\\Program.cs",
+              "RelativeDocumentMoniker": "bai23\\Program.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\bai23\\bai23\\Program.cs*",
+              "RelativeToolTip": "bai23\\Program.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T07:04:54.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sv.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\bai23\\bai23\\Sv.cs",
+              "RelativeDocumentMoniker": "bai23\\Sv.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\bai23\\bai23\\Sv.cs*",
+              "RelativeToolTip": "bai23\\Sv.cs*",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAvwFQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T07:09:56.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
