@@ -1,0 +1,11 @@
+C:\Users\MANh TUNG\source\repos\wf3\wìnorm6\bin\Debug\wìnorm6.exe.config
+C:\Users\MANh TUNG\source\repos\wf3\wìnorm6\bin\Debug\wìnorm6.exe
+C:\Users\MANh TUNG\source\repos\wf3\wìnorm6\bin\Debug\wìnorm6.pdb
+C:\Users\MANh TUNG\source\repos\wf3\wìnorm6\obj\Debug\wìnorm6.csproj.AssemblyReference.cache
+C:\Users\MANh TUNG\source\repos\wf3\wìnorm6\obj\Debug\wìnorm6.Form1.resources
+C:\Users\MANh TUNG\source\repos\wf3\wìnorm6\obj\Debug\wìnorm6.Properties.Resources.resources
+C:\Users\MANh TUNG\source\repos\wf3\wìnorm6\obj\Debug\wìnorm6.csproj.GenerateResource.cache
+C:\Users\MANh TUNG\source\repos\wf3\wìnorm6\obj\Debug\wìnorm6.csproj.CoreCompileInputs.cache
+C:\Users\MANh TUNG\source\repos\wf3\wìnorm6\obj\Debug\wìnorm6.exe
+C:\Users\MANh TUNG\source\repos\wf3\wìnorm6\obj\Debug\wìnorm6.pdb
+C:\Users\MANh TUNG\source\repos\wf3\wìnorm6\obj\Debug\wìnorm6.exe.config

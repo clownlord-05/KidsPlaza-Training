@@ -1,0 +1,11 @@
+C:\Users\MANh TUNG\source\repos\wf3\wf3\bin\Debug\wf3.exe.config
+C:\Users\MANh TUNG\source\repos\wf3\wf3\bin\Debug\wf3.exe
+C:\Users\MANh TUNG\source\repos\wf3\wf3\bin\Debug\wf3.pdb
+C:\Users\MANh TUNG\source\repos\wf3\wf3\obj\Debug\wf3.csproj.AssemblyReference.cache
+C:\Users\MANh TUNG\source\repos\wf3\wf3\obj\Debug\wf3.Form1.resources
+C:\Users\MANh TUNG\source\repos\wf3\wf3\obj\Debug\wf3.Properties.Resources.resources
+C:\Users\MANh TUNG\source\repos\wf3\wf3\obj\Debug\wf3.csproj.GenerateResource.cache
+C:\Users\MANh TUNG\source\repos\wf3\wf3\obj\Debug\wf3.csproj.CoreCompileInputs.cache
+C:\Users\MANh TUNG\source\repos\wf3\wf3\obj\Debug\wf3.exe
+C:\Users\MANh TUNG\source\repos\wf3\wf3\obj\Debug\wf3.pdb
+C:\Users\MANh TUNG\source\repos\wf3\wf3\obj\Debug\wf3.exe.config

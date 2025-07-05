@@ -1,0 +1,11 @@
+C:\Users\MANh TUNG\source\repos\wf3\quayso\bin\Debug\quayso.exe.config
+C:\Users\MANh TUNG\source\repos\wf3\quayso\bin\Debug\quayso.exe
+C:\Users\MANh TUNG\source\repos\wf3\quayso\bin\Debug\quayso.pdb
+C:\Users\MANh TUNG\source\repos\wf3\quayso\obj\Debug\quayso.csproj.AssemblyReference.cache
+C:\Users\MANh TUNG\source\repos\wf3\quayso\obj\Debug\quayso.Form1.resources
+C:\Users\MANh TUNG\source\repos\wf3\quayso\obj\Debug\quayso.Properties.Resources.resources
+C:\Users\MANh TUNG\source\repos\wf3\quayso\obj\Debug\quayso.csproj.GenerateResource.cache
+C:\Users\MANh TUNG\source\repos\wf3\quayso\obj\Debug\quayso.csproj.CoreCompileInputs.cache
+C:\Users\MANh TUNG\source\repos\wf3\quayso\obj\Debug\quayso.exe
+C:\Users\MANh TUNG\source\repos\wf3\quayso\obj\Debug\quayso.pdb
+C:\Users\MANh TUNG\source\repos\wf3\quayso\obj\Debug\quayso.exe.config

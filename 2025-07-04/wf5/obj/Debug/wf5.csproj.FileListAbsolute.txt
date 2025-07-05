@@ -1,0 +1,11 @@
+C:\Users\MANh TUNG\source\repos\wf3\wf5\bin\Debug\wf5.exe.config
+C:\Users\MANh TUNG\source\repos\wf3\wf5\bin\Debug\wf5.exe
+C:\Users\MANh TUNG\source\repos\wf3\wf5\bin\Debug\wf5.pdb
+C:\Users\MANh TUNG\source\repos\wf3\wf5\obj\Debug\wf5.csproj.AssemblyReference.cache
+C:\Users\MANh TUNG\source\repos\wf3\wf5\obj\Debug\wf5.Form1.resources
+C:\Users\MANh TUNG\source\repos\wf3\wf5\obj\Debug\wf5.Properties.Resources.resources
+C:\Users\MANh TUNG\source\repos\wf3\wf5\obj\Debug\wf5.csproj.GenerateResource.cache
+C:\Users\MANh TUNG\source\repos\wf3\wf5\obj\Debug\wf5.csproj.CoreCompileInputs.cache
+C:\Users\MANh TUNG\source\repos\wf3\wf5\obj\Debug\wf5.exe
+C:\Users\MANh TUNG\source\repos\wf3\wf5\obj\Debug\wf5.pdb
+C:\Users\MANh TUNG\source\repos\wf3\wf5\obj\Debug\wf5.exe.config
