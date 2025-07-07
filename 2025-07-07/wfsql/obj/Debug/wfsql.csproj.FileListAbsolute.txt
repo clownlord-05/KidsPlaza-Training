@@ -1,0 +1,11 @@
+C:\Users\MANh TUNG\source\repos\2025-07-07\wfsql\bin\Debug\wfsql.exe.config
+C:\Users\MANh TUNG\source\repos\2025-07-07\wfsql\bin\Debug\wfsql.exe
+C:\Users\MANh TUNG\source\repos\2025-07-07\wfsql\bin\Debug\wfsql.pdb
+C:\Users\MANh TUNG\source\repos\2025-07-07\wfsql\obj\Debug\wfsql.csproj.AssemblyReference.cache
+C:\Users\MANh TUNG\source\repos\2025-07-07\wfsql\obj\Debug\wfsql.Form1.resources
+C:\Users\MANh TUNG\source\repos\2025-07-07\wfsql\obj\Debug\wfsql.Properties.Resources.resources
+C:\Users\MANh TUNG\source\repos\2025-07-07\wfsql\obj\Debug\wfsql.csproj.GenerateResource.cache
+C:\Users\MANh TUNG\source\repos\2025-07-07\wfsql\obj\Debug\wfsql.csproj.CoreCompileInputs.cache
+C:\Users\MANh TUNG\source\repos\2025-07-07\wfsql\obj\Debug\wfsql.exe
+C:\Users\MANh TUNG\source\repos\2025-07-07\wfsql\obj\Debug\wfsql.pdb
+C:\Users\MANh TUNG\source\repos\2025-07-07\wfsql\obj\Debug\wfsql.exe.config

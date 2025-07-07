@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{790C9499-897C-496F-9FC5-79D16C99CD30}|wfsql\\wfsql.csproj|c:\\users\\manh tung\\source\\repos\\2025-07-07\\wfsql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790C9499-897C-496F-9FC5-79D16C99CD30}|wfsql\\wfsql.csproj|solutionrelative:wfsql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790C9499-897C-496F-9FC5-79D16C99CD30}|wfsql\\wfsql.csproj|C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wfsql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{790C9499-897C-496F-9FC5-79D16C99CD30}|wfsql\\wfsql.csproj|solutionrelative:wfsql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE5EC71-A22B-4FE0-8A77-1D4751A4FA2E}|wfconnectsql\\wfconnectsql.csproj|C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wfconnectsql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE5EC71-A22B-4FE0-8A77-1D4751A4FA2E}|wfconnectsql\\wfconnectsql.csproj|solutionrelative:wfconnectsql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA314BDD-0654-45BA-9959-9FA7D7E50C6A}|wf\\wf.csproj|C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA314BDD-0654-45BA-9959-9FA7D7E50C6A}|wf\\wf.csproj|solutionrelative:wf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE5EC71-A22B-4FE0-8A77-1D4751A4FA2E}|wfconnectsql\\wfconnectsql.csproj|C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wfconnectsql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AE5EC71-A22B-4FE0-8A77-1D4751A4FA2E}|wfconnectsql\\wfconnectsql.csproj|solutionrelative:wfconnectsql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA314BDD-0654-45BA-9959-9FA7D7E50C6A}|wf\\wf.csproj|C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA314BDD-0654-45BA-9959-9FA7D7E50C6A}|wf\\wf.csproj|solutionrelative:wf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA314BDD-0654-45BA-9959-9FA7D7E50C6A}|wf\\wf.csproj|C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA314BDD-0654-45BA-9959-9FA7D7E50C6A}|wf\\wf.csproj|solutionrelative:wf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5F54B9-E5A6-4EA2-8E80-A7A91B9F7C90}|wf-DX3\\wf-DX3.csproj|C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-dx3\\frmradialmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A5F54B9-E5A6-4EA2-8E80-A7A91B9F7C90}|wf-DX3\\wf-DX3.csproj|solutionrelative:wf-dx3\\frmradialmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5F54B9-E5A6-4EA2-8E80-A7A91B9F7C90}|wf-DX3\\wf-DX3.csproj|C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-dx3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5F54B9-E5A6-4EA2-8E80-A7A91B9F7C90}|wf-DX3\\wf-DX3.csproj|solutionrelative:wf-dx3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5F54B9-E5A6-4EA2-8E80-A7A91B9F7C90}|wf-DX3\\wf-DX3.csproj|C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-dx3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A5F54B9-E5A6-4EA2-8E80-A7A91B9F7C90}|wf-DX3\\wf-DX3.csproj|solutionrelative:wf-dx3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5F54B9-E5A6-4EA2-8E80-A7A91B9F7C90}|wf-DX3\\wf-DX3.csproj|C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-dx3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5F54B9-E5A6-4EA2-8E80-A7A91B9F7C90}|wf-DX3\\wf-DX3.csproj|solutionrelative:wf-dx3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0495BFE4-AB8B-460E-962F-13425A194A3B}|wf-DX2\\wf-DX2.csproj|C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-dx2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0495BFE4-AB8B-460E-962F-13425A194A3B}|wf-DX2\\wf-DX2.csproj|solutionrelative:wf-dx2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0495BFE4-AB8B-460E-962F-13425A194A3B}|wf-DX2\\wf-DX2.csproj|C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-dx2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0495BFE4-AB8B-460E-962F-13425A194A3B}|wf-DX2\\wf-DX2.csproj|solutionrelative:wf-dx2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253AF70A-B3FD-4133-A06B-84B23AD0F26A}|wf-ft-DX1\\wf-ft-DX1.csproj|C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-ft-dx1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{253AF70A-B3FD-4133-A06B-84B23AD0F26A}|wf-ft-DX1\\wf-ft-DX1.csproj|solutionrelative:wf-ft-dx1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253AF70A-B3FD-4133-A06B-84B23AD0F26A}|wf-ft-DX1\\wf-ft-DX1.csproj|C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-ft-dx1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{253AF70A-B3FD-4133-A06B-84B23AD0F26A}|wf-ft-DX1\\wf-ft-DX1.csproj|solutionrelative:wf-ft-dx1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wfsql\\Form1.cs",
+              "RelativeDocumentMoniker": "wfsql\\Form1.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wfsql\\Form1.cs",
+              "RelativeToolTip": "wfsql\\Form1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwFAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:45:05.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wfsql\\Form1.cs",
+              "RelativeDocumentMoniker": "wfsql\\Form1.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wfsql\\Form1.cs [Design]",
+              "RelativeToolTip": "wfsql\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:43:52.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wfconnectsql\\Form1.cs",
+              "RelativeDocumentMoniker": "wfconnectsql\\Form1.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wfconnectsql\\Form1.cs",
+              "RelativeToolTip": "wfconnectsql\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:21:23.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wfconnectsql\\Form1.cs",
+              "RelativeDocumentMoniker": "wfconnectsql\\Form1.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wfconnectsql\\Form1.cs [Design]",
+              "RelativeToolTip": "wfconnectsql\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:20:13.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf\\Form1.cs",
+              "RelativeDocumentMoniker": "wf\\Form1.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf\\Form1.cs",
+              "RelativeToolTip": "wf\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIA2wCgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:39:08.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf\\Program.cs",
+              "RelativeDocumentMoniker": "wf\\Program.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf\\Program.cs",
+              "RelativeToolTip": "wf\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:46:48.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf\\Form1.cs",
+              "RelativeDocumentMoniker": "wf\\Form1.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf\\Form1.cs [Design]",
+              "RelativeToolTip": "wf\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:31:50.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmRadialMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-DX3\\frmRadialMenu.cs",
+              "RelativeDocumentMoniker": "wf-DX3\\frmRadialMenu.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-DX3\\frmRadialMenu.cs [Design]",
+              "RelativeToolTip": "wf-DX3\\frmRadialMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:22:07.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-DX3\\Program.cs",
+              "RelativeDocumentMoniker": "wf-DX3\\Program.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-DX3\\Program.cs",
+              "RelativeToolTip": "wf-DX3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:47:44.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-DX3\\Form1.cs",
+              "RelativeDocumentMoniker": "wf-DX3\\Form1.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-DX3\\Form1.cs",
+              "RelativeToolTip": "wf-DX3\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAWwB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T04:24:58.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-DX3\\Form1.cs",
+              "RelativeDocumentMoniker": "wf-DX3\\Form1.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-DX3\\Form1.cs [Design]",
+              "RelativeToolTip": "wf-DX3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T04:11:25.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-DX2\\Form1.cs",
+              "RelativeDocumentMoniker": "wf-DX2\\Form1.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-DX2\\Form1.cs",
+              "RelativeToolTip": "wf-DX2\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T03:44:35.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-DX2\\Form1.cs",
+              "RelativeDocumentMoniker": "wf-DX2\\Form1.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-DX2\\Form1.cs [Design]",
+              "RelativeToolTip": "wf-DX2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T03:36:30.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-ft-DX1\\Form1.cs",
+              "RelativeDocumentMoniker": "wf-ft-DX1\\Form1.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-ft-DX1\\Form1.cs",
+              "RelativeToolTip": "wf-ft-DX1\\Form1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwB8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T02:14:25.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-ft-DX1\\Form1.cs",
+              "RelativeDocumentMoniker": "wf-ft-DX1\\Form1.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-07\\wf-ft-DX1\\Form1.cs [Design]",
+              "RelativeToolTip": "wf-ft-DX1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T02:02:37.52Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

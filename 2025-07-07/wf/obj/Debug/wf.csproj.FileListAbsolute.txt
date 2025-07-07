@@ -1,0 +1,11 @@
+C:\Users\MANh TUNG\source\repos\2025-07-07\wf\bin\Debug\wf.exe.config
+C:\Users\MANh TUNG\source\repos\2025-07-07\wf\bin\Debug\wf.exe
+C:\Users\MANh TUNG\source\repos\2025-07-07\wf\bin\Debug\wf.pdb
+C:\Users\MANh TUNG\source\repos\2025-07-07\wf\obj\Debug\wf.csproj.AssemblyReference.cache
+C:\Users\MANh TUNG\source\repos\2025-07-07\wf\obj\Debug\wf.Form1.resources
+C:\Users\MANh TUNG\source\repos\2025-07-07\wf\obj\Debug\wf.Properties.Resources.resources
+C:\Users\MANh TUNG\source\repos\2025-07-07\wf\obj\Debug\wf.csproj.GenerateResource.cache
+C:\Users\MANh TUNG\source\repos\2025-07-07\wf\obj\Debug\wf.csproj.CoreCompileInputs.cache
+C:\Users\MANh TUNG\source\repos\2025-07-07\wf\obj\Debug\wf.exe
+C:\Users\MANh TUNG\source\repos\2025-07-07\wf\obj\Debug\wf.pdb
+C:\Users\MANh TUNG\source\repos\2025-07-07\wf\obj\Debug\wf.exe.config
