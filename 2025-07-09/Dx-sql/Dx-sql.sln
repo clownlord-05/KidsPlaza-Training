@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dx-sql", "Dx-sql\Dx-sql.csproj", "{A0A67D25-D0CF-4B59-A074-6702540697B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0A67D25-D0CF-4B59-A074-6702540697B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A67D25-D0CF-4B59-A074-6702540697B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A67D25-D0CF-4B59-A074-6702540697B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A67D25-D0CF-4B59-A074-6702540697B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F991D801-73EE-43A0-B710-322C11AA22A4}
+	EndGlobalSection
+EndGlobal
