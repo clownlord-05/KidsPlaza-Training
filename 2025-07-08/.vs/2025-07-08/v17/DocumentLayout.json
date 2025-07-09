@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4CA0A3-CAC4-4B80-A61F-2DC9C5799DE4}|asp\\asp.csproj|c:\\users\\manh tung\\source\\repos\\2025-07-08\\asp\\controllers\\mathcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4CA0A3-CAC4-4B80-A61F-2DC9C5799DE4}|asp\\asp.csproj|solutionrelative:asp\\controllers\\mathcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4CA0A3-CAC4-4B80-A61F-2DC9C5799DE4}|asp\\asp.csproj|c:\\users\\manh tung\\source\\repos\\2025-07-08\\asp\\myrepossitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4CA0A3-CAC4-4B80-A61F-2DC9C5799DE4}|asp\\asp.csproj|solutionrelative:asp\\myrepossitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4CA0A3-CAC4-4B80-A61F-2DC9C5799DE4}|asp\\asp.csproj|c:\\users\\manh tung\\source\\repos\\2025-07-08\\asp\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4CA0A3-CAC4-4B80-A61F-2DC9C5799DE4}|asp\\asp.csproj|solutionrelative:asp\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4CA0A3-CAC4-4B80-A61F-2DC9C5799DE4}|asp\\asp.csproj|c:\\users\\manh tung\\source\\repos\\2025-07-08\\asp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4CA0A3-CAC4-4B80-A61F-2DC9C5799DE4}|asp\\asp.csproj|solutionrelative:asp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4CA0A3-CAC4-4B80-A61F-2DC9C5799DE4}|asp\\asp.csproj|c:\\users\\manh tung\\source\\repos\\2025-07-08\\asp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4CA0A3-CAC4-4B80-A61F-2DC9C5799DE4}|asp\\asp.csproj|solutionrelative:asp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4CA0A3-CAC4-4B80-A61F-2DC9C5799DE4}|asp\\asp.csproj|c:\\users\\manh tung\\source\\repos\\2025-07-08\\asp\\models\\hellomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4CA0A3-CAC4-4B80-A61F-2DC9C5799DE4}|asp\\asp.csproj|solutionrelative:asp\\models\\hellomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4CA0A3-CAC4-4B80-A61F-2DC9C5799DE4}|asp\\asp.csproj|c:\\users\\manh tung\\source\\repos\\2025-07-08\\asp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED4CA0A3-CAC4-4B80-A61F-2DC9C5799DE4}|asp\\asp.csproj|solutionrelative:asp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4CA0A3-CAC4-4B80-A61F-2DC9C5799DE4}|asp\\asp.csproj|c:\\users\\manh tung\\source\\repos\\2025-07-08\\asp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED4CA0A3-CAC4-4B80-A61F-2DC9C5799DE4}|asp\\asp.csproj|solutionrelative:asp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4CA0A3-CAC4-4B80-A61F-2DC9C5799DE4}|asp\\asp.csproj|c:\\users\\manh tung\\source\\repos\\2025-07-08\\asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4CA0A3-CAC4-4B80-A61F-2DC9C5799DE4}|asp\\asp.csproj|solutionrelative:asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB329BF-7FC4-45A0-B530-0A85D12F5795}|wf2\\wf2.csproj|C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB329BF-7FC4-45A0-B530-0A85D12F5795}|wf2\\wf2.csproj|solutionrelative:wf2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB329BF-7FC4-45A0-B530-0A85D12F5795}|wf2\\wf2.csproj|C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CB329BF-7FC4-45A0-B530-0A85D12F5795}|wf2\\wf2.csproj|solutionrelative:wf2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BD4424-952A-4A6D-B23B-CDE4F8657848}|wf-dx\\wf-dx.csproj|C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf-dx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42BD4424-952A-4A6D-B23B-CDE4F8657848}|wf-dx\\wf-dx.csproj|solutionrelative:wf-dx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BD4424-952A-4A6D-B23B-CDE4F8657848}|wf-dx\\wf-dx.csproj|C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf-dx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BD4424-952A-4A6D-B23B-CDE4F8657848}|wf-dx\\wf-dx.csproj|solutionrelative:wf-dx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806DB386-85E1-4707-8915-27EB0F647520}|wf\\wf.csproj|C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806DB386-85E1-4707-8915-27EB0F647520}|wf\\wf.csproj|solutionrelative:wf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806DB386-85E1-4707-8915-27EB0F647520}|wf\\wf.csproj|C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{806DB386-85E1-4707-8915-27EB0F647520}|wf\\wf.csproj|solutionrelative:wf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806DB386-85E1-4707-8915-27EB0F647520}|wf\\wf.csproj|C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806DB386-85E1-4707-8915-27EB0F647520}|wf\\wf.csproj|solutionrelative:wf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BD4424-952A-4A6D-B23B-CDE4F8657848}|wf-dx\\wf-dx.csproj|C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf-dx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BD4424-952A-4A6D-B23B-CDE4F8657848}|wf-dx\\wf-dx.csproj|solutionrelative:wf-dx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MathController1.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\asp\\Controllers\\MathController1.cs",
+              "RelativeDocumentMoniker": "asp\\Controllers\\MathController1.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\asp\\Controllers\\MathController1.cs",
+              "RelativeToolTip": "asp\\Controllers\\MathController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:14:11.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\asp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "asp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\asp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "asp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:59:48.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\asp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "asp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\asp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "asp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T09:33:18.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\asp\\Program.cs",
+              "RelativeDocumentMoniker": "asp\\Program.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\asp\\Program.cs",
+              "RelativeToolTip": "asp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:30:42.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyRepossitory.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\asp\\MyRepossitory.cs",
+              "RelativeDocumentMoniker": "asp\\MyRepossitory.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\asp\\MyRepossitory.cs",
+              "RelativeToolTip": "asp\\MyRepossitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:29:06.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\asp\\IRepository.cs",
+              "RelativeDocumentMoniker": "asp\\IRepository.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\asp\\IRepository.cs",
+              "RelativeToolTip": "asp\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:27:46.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\asp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "asp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\asp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "asp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:16:24.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HelloModel.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\asp\\Models\\HelloModel.cs",
+              "RelativeDocumentMoniker": "asp\\Models\\HelloModel.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\asp\\Models\\HelloModel.cs",
+              "RelativeToolTip": "asp\\Models\\HelloModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:15:35.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\asp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "asp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\asp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "asp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T09:14:26.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf2\\Form1.cs",
+              "RelativeDocumentMoniker": "wf2\\Form1.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf2\\Form1.cs",
+              "RelativeToolTip": "wf2\\Form1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T04:16:06.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf2\\Form1.cs",
+              "RelativeDocumentMoniker": "wf2\\Form1.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf2\\Form1.cs [Design]",
+              "RelativeToolTip": "wf2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T04:13:14.958Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf\\Program.cs",
+              "RelativeDocumentMoniker": "wf\\Program.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf\\Program.cs",
+              "RelativeToolTip": "wf\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T04:10:19.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf-dx\\Form1.cs",
+              "RelativeDocumentMoniker": "wf-dx\\Form1.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf-dx\\Form1.cs",
+              "RelativeToolTip": "wf-dx\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvx8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:19:49.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf-dx\\Form1.cs",
+              "RelativeDocumentMoniker": "wf-dx\\Form1.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf-dx\\Form1.cs [Design]",
+              "RelativeToolTip": "wf-dx\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:19:34.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf-dx\\Program.cs",
+              "RelativeDocumentMoniker": "wf-dx\\Program.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf-dx\\Program.cs",
+              "RelativeToolTip": "wf-dx\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:15:31.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf\\Form1.cs",
+              "RelativeDocumentMoniker": "wf\\Form1.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf\\Form1.cs",
+              "RelativeToolTip": "wf\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T01:20:38.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf\\Form1.cs",
+              "RelativeDocumentMoniker": "wf\\Form1.cs",
+              "ToolTip": "C:\\Users\\MANh TUNG\\source\\repos\\2025-07-08\\wf\\Form1.cs [Design]",
+              "RelativeToolTip": "wf\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T01:10:17.276Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
